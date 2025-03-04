@@ -35,14 +35,6 @@
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar" style="">
             <div class="bg-white py-2 collapse-inner rounded">
                 <h6 class="collapse-header">Danh mục:</h6>
-                <a class="collapse-item" href="dantoc.php"><i class="bi bi-person-gear"></i> Dân tộc</a>
-                <a class="collapse-item" href="tinh.php"><i class="bi bi-send-check"></i> Tỉnh</a>
-                <a class="collapse-item" href="doituong.php"><i class="bi bi-person-raised-hand"></i> Đối tượng</a>
-                <a class="collapse-item" href="lop.php"><i class="fas fa-fw fa-table"></i> Lớp học</a>
-                <a class="collapse-item" href="nghanh.php"><i class="fas fa-fw fa-chart-area"></i> Ngành</a>
-                <a class="collapse-item" href="khoa.php"><i class="fas fa-fw fa-chart-area"></i> Khoa</a>
-                <a class="collapse-item" href="nghanh.php"><i class="fas fa-fw fa-chart-area"></i> Thêm</a>
-
             </div>
             
         </div>
