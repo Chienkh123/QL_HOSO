@@ -40,6 +40,7 @@
                 <a class="collapse-item" href="doituong.php"><i class="bi bi-person-raised-hand"></i> Đối tượng</a>
                 <a class="collapse-item" href="lop.php"><i class="fas fa-fw fa-table"></i> Lớp học</a>
                 <a class="collapse-item" href="nghanh.php"><i class="fas fa-fw fa-chart-area"></i> Nghành</a>
+                <a class="collapse-item" href="nghanh.php"><i class="fas fa-fw fa-chart-area"></i> Thêm</a>
             </div>
         </div>
     </li>
